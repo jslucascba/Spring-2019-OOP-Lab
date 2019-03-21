@@ -17,7 +17,7 @@ public class Main {
         bigScreen.Power();
 
         //Display the state of the television
-        System.out.println(bigScreen.ToString());
+        System.out.println(bigScreen.toString());
 
         //Prompt the user for input and store it in the station variable
         System.out.println("What channel do you want? ");
